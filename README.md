@@ -21,11 +21,3 @@
 Python 3.6.7 (default, Oct 22 2018, 11:32:17) 
 [GCC 8.2.0] on linux
 ```
-
-### Tested on:
-* Student environment in same machine with Python 3.6.7
-  * ubuntu1804-004.student.cs.uwaterloo.ca
-* Student environment in 3 different machines with Python 3.6.7
-  * ubuntu1804-008.student.cs.uwaterloo.ca
-  * ubuntu1804-004.student.cs.uwaterloo.ca
-  * ubuntu1804-002.student.cs.uwaterloo.ca
